@@ -1,5 +1,6 @@
 
 import Eightpage from "./components/eightpage/eightpage";
+import End from "./components/end/end";
 import Fivepage from "./components/fivepage/fivepage";
 import Footer from "./components/footer/footer";
 import Fourpage from "./components/fourpage/fourpage";
@@ -25,6 +26,7 @@ export default function Home() {
       <Sevenpage/>
       <Eightpage/>
       <Ninepage/>
+      <End/>
 
       
     </div>
